@@ -1,0 +1,36 @@
+.main-nav.scrolled {
+    background-color: white;
+
+
+}
+
+.nav-link.scrolled {
+    color: black;
+}
+
+.liText {
+    color: white;
+}
+
+.cover-img {
+    background-image: url("https://www.techavidus.com/Images/Homepage/IMG_6450.JPG");
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+
+.main {
+    background-size: cover;
+
+}
+
+
+div {
+    display: block;
+    
+}
+.Hover:hover{
+    color: rgb(12, 243, 39) !important;
+
+}
