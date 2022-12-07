@@ -1,2 +1,2 @@
 # OIBGRIP
-Oasis Infobyte All Task
+Oasis Infobyte Task-1
